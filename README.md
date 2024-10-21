@@ -27,6 +27,4 @@ The Username Watermark Application is a Windows Forms application that displays 
 ## License
 This project is **unlicensed**. It can be used at your own discretion and modified based on your organizational needs.
 
----
 
-Feel free to make any additional modifications!
